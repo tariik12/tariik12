@@ -1,43 +1,31 @@
-
-### Hi there 👋, Md. Tarikul Islam
-![I'm a 🌟 Front End Developer | 🚀 MERN Stack Developer | Full Stack Developer| ✨ Web Developer from Dhaka, Bangladesh](https://i.ibb.co/q125Pt9/Md-Tarkikul-Islam-2.png)
+### Hi there 👋, This is Tarikul Islam.
+#### I'm a 🌟 Front End Developer | 🚀 MERN Stack Developer | ✨ Web Developer
+![I'm a 🌟 Front End Developer | 🚀 MERN Stack Developer | ✨ Web Developer from Dhaka Bangladesh.](https://i.ibb.co/q125Pt9/Md-Tarkikul-Islam-2.png)
 
 I'm a hard worker and a good communicator I like to build my programming career by learning new topics and I always like fixed-time maintenance.
 
 
-
-
 # 💻 Tech Stack:
-[![JavaScript](https://img.shields.io/badge/javascript-%2214583330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+[![JavaScript](https://img.shields.io/badge/javascript-%23483384.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.css3.com/)  [![React](https://img.shields.io/badge/react-%2325432a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) [![Next JS](https://img.shields.io/badge/Next-red?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/) [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]([https://daisyui.com/](https://getbootstrap.com/)) [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/) [![Three js](https://img.shields.io/badge/threejs-yellow?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/) [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/) [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com/) [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)](https://tanstack.com/query/v3/) [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/) [![Netlify](https://img.shields.io/badge/netlify-%23005000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/) [![Vercel](https://img.shields.io/badge/vercel-%23002585.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com/)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/) [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/) [![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/) [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"> </br>
-- 🔭 I’m currently working on [![BDCrafts](https://img.shields.io/badge/BDCrafts-%235389DA.svg?logo=BDCrafts&logoColor=white)](https://bd-crafts-client.vercel.app/)
-
-- 🌱 I’m currently learning [![Redux](https://img.shields.io/badge/Redux-%232589DA.svg?logo=Redux&logoColor=white)](https://redux.js.org/) [![TypeScript](https://img.shields.io/badge/TypeScript]-%235389DA.svg?logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-
-- 👨‍💻 MY Portfolio project [![Portfolio](https://img.shields.io/badge/Portfolio-%597148EA.svg?logo=Portfolio&logoColor=white)](https://golden-puffpuff-5f569d.netlify.app/) 
-
-- 💬 Ask me about **React, web development**
-
+- 🔭 I’m currently working on [![Dynamic Air](https://img.shields.io/badge/Dynamic-Air-%2326274A.svg?logo=Dynamic-Air&logoColor=white)](https://vercel.com/tariik12/dynamic-air)
+- 🌱 I’m currently learning [![Redux](https://img.shields.io/badge/Redux-%27869FA.svg?logo=redux&logoColor=white)](https://redux.js.org/) [![Next JS](https://img.shields.io/badge/NextJS-%232588EA.svg?logo=next.js&logoColor=white)](https://nextjs.org/)  [![TypeScript](https://img.shields.io/badge/TypeScript-%133489EA.svg?logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+- 💬 Ask me about web development 
 - 📫 How to reach me **tariikul12@gmail.com**
+- 📄 Know about my experiences [![RESUME](https://img.shields.io/badge/portfolio-%231899DA.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1cs-mk-5q_-xo75_kqG5KGv5LIUgMNFQ6/view?usp=sharing)
 
-- 📄 Know about my experiences [![resume](https://img.shields.io/badge/Resume-%237289DA.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1cs-mk-5q_-xo75_kqG5KGv5LIUgMNFQ6/view?usp=sharing)
-- 
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1070761756013633567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-tarikul-islam-8113b9282/) 
+  ## 🌐 Socials:
+  [![Portfolio](https://img.shields.io/badge/portfolio-%232589DA.svg?logo=Portfolio&logoColor=white)](https://golden-puffpuff-5f569d.netlify.app/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1070761756013633567) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tariikul12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tariik12) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tariik12&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tariik12&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tariik12&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tariik12&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tariik12&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tariik12&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tariik12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
