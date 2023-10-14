@@ -15,7 +15,7 @@ I'm a hard worker and a good communicator I like to build my programming career 
 
 - 🌱 I’m currently learning **Redux & Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://golden-puffpuff-5f569d.netlify.app/](https://golden-puffpuff-5f569d.netlify.app/)
+- 👨‍💻 MY Portfolio project [![Portfolio](https://img.shields.io/badge/Portfolio-%237399EA.svg?logo=Portfolio&logoColor=white)](https://golden-puffpuff-5f569d.netlify.app/) 
 
 - 💬 Ask me about **React, web development**
 
