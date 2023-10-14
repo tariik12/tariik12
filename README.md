@@ -13,9 +13,9 @@ I'm a hard worker and a good communicator I like to build my programming career 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"> </br>
 - 🔭 I’m currently working on [![BDCrafts](https://img.shields.io/badge/BDCrafts-%235389DA.svg?logo=BDCrafts&logoColor=white)](https://bd-crafts-client.vercel.app/)
 
-- 🌱 I’m currently learning **Redux & Typescript.**
+- 🌱 I’m currently learning [![Redux](https://img.shields.io/badge/Redux-%232589DA.svg?logo=Redux&logoColor=white)](https://redux.js.org/) [![TypeScript](https://img.shields.io/badge/TypeScript]-%235389DA.svg?logo=TypeScript]&logoColor=white)](https://www.typescriptlang.org/)
 
-- 👨‍💻 MY Portfolio project [![Portfolio](https://img.shields.io/badge/Portfolio-%237399EA.svg?logo=Portfolio&logoColor=white)](https://golden-puffpuff-5f569d.netlify.app/) 
+- 👨‍💻 MY Portfolio project [![Portfolio](https://img.shields.io/badge/Portfolio-%597148EA.svg?logo=Portfolio&logoColor=white)](https://golden-puffpuff-5f569d.netlify.app/) 
 
 - 💬 Ask me about **React, web development**
 
