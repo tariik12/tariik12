@@ -16,6 +16,7 @@ I'm a hard worker and a good communicator I like to build my programming career 
 - 💬 Ask me about web development 
 - 📫 How to reach me **tariikul12@gmail.com**
 - 📄 Know about my experiences [![RESUME](https://img.shields.io/badge/portfolio-%231899DA.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1cs-mk-5q_-xo75_kqG5KGv5LIUgMNFQ6/view?usp=sharing)
+- 📄 Know about my experiences [![Practice Code](https://img.shields.io/badge/portfolio-%231899DA.svg?logo=Resume&logoColor=white)](https://www.jschallenger.com/)
 
 # 🌐 Reach me out:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1070761756013633567) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tariikul12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tariik12) 
