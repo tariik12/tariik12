@@ -16,6 +16,7 @@ I'm a hard worker and a good communicator I like to build my programming career 
 - 💬 Ask me about web development 
 - 📫 How to reach me **tariikul12@gmail.com**
 - 📄 Know about my experiences [![RESUME](https://img.shields.io/badge/portfolio-%231899DA.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1cs-mk-5q_-xo75_kqG5KGv5LIUgMNFQ6/view?usp=sharing)
+- 📄 For learing programme [![code Academy](https://img.shields.io/badge/codeAcademy-%235999DA.svg?logo=JcodeAcademy&logoColor=white)](https://www.codecademy.com/resources/docs/javascript) [![Free Codecamp](https://img.shields.io/badge/freeCodecamp-%232399DA.svg?logo=freeCodecamp&logoColor=white)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) [![MDN](https://img.shields.io/badge/mdn-%232399DA.svg?logo=mdn&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![javascript.info](https://img.shields.io/badge/javascript.info-%232399DA.svg?logo=javascript.info&logoColor=white)](https://javascript.info/)
 - 📄 Daily Practice Code [![JSchallenger](https://img.shields.io/badge/JSchallenger-%235999DA.svg?logo=JSchallenger&logoColor=white)](https://www.jschallenger.com/) [![Hacker Rank](https://img.shields.io/badge/hackerrank-%232399DA.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tariikul12)
 
 
